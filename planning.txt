@@ -1,0 +1,16 @@
+WORK-DAY-SCHEDULER
+
+- Current day will display at top (Monday, January 1st e.g)
+- Timeblocks with standard business hours are displayed when scrolling down the page (9am to 5pm)
+- Each timeblock will be colour coded indicating whether it's in the past, present or future (grey for past, red for current timeblock, green for future)
+- Clicking on the timeblock allows the user to add/update an event
+- There will be a save button to the right hand side for saving the timeblock's event into local storage
+- The saved event should still persist after the page has refreshed
+
+
+    - Creating columns as the structure of the timeblocks
+
+    - Insert text boxes into the middle columns
+
+    - Insert buttons into the end columns
+       [these buttons will then function to save the timeblock data into the local storage]
